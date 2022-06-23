@@ -1,5 +1,3 @@
-ECHO is on.
-
-# read me
+# Read me
 
 Hello!
